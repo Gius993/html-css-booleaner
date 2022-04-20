@@ -47,3 +47,25 @@
 .list{
 	margin: 20px;
 }
+.tabella{
+	width: 1000px;
+}
+.tabella{
+	margin-top: 20px;
+	text-align: left;
+}
+table{
+	border-collapse: collapse;
+}
+
+.one{
+	width: 50%;
+}
+
+thead{
+	color: white;
+	background-color: #20A9E5;
+}
+.two{
+	background-color: #B1E5F2;
+}	
