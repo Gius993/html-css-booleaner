@@ -12,9 +12,28 @@
 }
 .logo{
 	background-image: url('../img/logo.svg');
-	width: 150px;
+	width: 250px;
 	height: 130px;
 	background-repeat: no-repeat;
 	background-position: 100%;
+	
 
+}
+
+.container-b{
+	margin: 10px;
+}
+.coloretesto-azzurro{
+	color: #49b9ea;
+}
+.coloretesto-grigio{
+	color: #808080;
+}
+.datafont{
+	font-size: 10px;
+	color:#808080	
+}
+.txt-foto{
+	font-size: 10px;
+	margin: 5px;
 }
