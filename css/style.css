@@ -69,3 +69,11 @@ thead{
 .two{
 	background-color: #B1E5F2;
 }	
+.testo-basso{
+	margin: 10px;
+}
+.titolo-pubblicita{
+	color: lightgray;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
